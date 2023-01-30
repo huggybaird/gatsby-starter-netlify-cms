@@ -1,0 +1,20 @@
+---
+templateKey: blog-post
+title: Getting started with zobo
+date: 2023-01-30T03:33:36.536Z
+description: steps to start
+featuredpost: true
+featuredimage: /img/flavor_wheel.jpg
+---
+## S﻿ome steps
+
+w﻿e need to figure out
+
+
+
+```shell
+npm install
+npm start --force
+```
+
+![](/img/jumbotron.jpg)
