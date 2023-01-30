@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Getting started with zobo
 date: 2023-01-30T03:33:36.536Z
 description: steps to start
-featuredpost: true
+featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
 ---
 ## S﻿ome steps
